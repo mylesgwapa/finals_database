@@ -1,0 +1,11 @@
+body {
+    width: 100%;
+    height: 100vh;
+    overflow-x: hidden;
+    background-color: #fafbfb; /* This will still be the background color if the image fails to load */
+    background-image: url('https://media.istockphoto.com/id/1193273154/photo/empty-wooden-tables-in-public-library.jpg?s=1024x1024&w=is&k=20&c=Z9M-62urlbNZW5Ij5uxCXA5vHJOse15opPA0iYnf32U='); /* Replace with your image path */
+    background-size: cover; /* Ensure the image covers the whole screen */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+  }
+ 
